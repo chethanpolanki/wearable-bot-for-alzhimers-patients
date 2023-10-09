@@ -1,2 +1,2 @@
-# wearable-bot-for-alzhimers-patients
-this project is under patent
+# wearable-bot-for-Alzheimers-patients
+This project is currently undergoing the patenting process with VIT University. It was developed using NODEMCU and the Arduino IDE for the initial stage of development. We incorporated features such as fall detection, vital monitoring, and reminders for medication, which notify both family members and caregivers through photos. Additionally, the system includes GPS tracking with geo-fencing for enhanced security and safety, along with several other functionalities
